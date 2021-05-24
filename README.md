@@ -1,2 +1,1 @@
-# Landcover_change
-¤th subproject of my PhD, investigating the effects of land-cover change on biodiversity
+Published code for the data download and analyses related to the manuscript "Urbanisation and land-cover change affect functional, but not compositional turnover of bird communities" by Petersen et al.
